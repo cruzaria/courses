@@ -1,8 +1,8 @@
 # courses
 
-##we have courses:
+## we have courses from lists:
 
- ##[FY-2018-Q1](https://github.com/cruzaria/FY-2018-Q1)
+## [FY-2018-Q1](https://github.com/cruzaria/FY-2018-Q1)
 
    	Advanced Framework Techniques-DEV221x-2017.tar.gz 	dockerizing * 	2 days ago
 	Big Data Orientation-DAT229x-2017.tar.gz 	dockerizing * 	2 days ago
@@ -49,9 +49,9 @@
 	Voice Hybrid and Routing-CLD234x-2017.zip 	dockerizing PV 	2 days ago
   
   
-  ##[CY-2017-Q4](https://github.com/cruzaria/CY-2017-Q4)
+## [CY-2017-Q4](https://github.com/cruzaria/CY-2017-Q4)
   
-  Automating Azure Workloads-AZURE210x-2017_T4.tar.gz 	dockerizing courses 	2 days ago
+        Automating Azure Workloads-AZURE210x-2017_T4.tar.gz 	dockerizing courses 	2 days ago
 	Databases in Azure-AZURE207x-2017_T4.tar.gz 	dockerizing courses 	2 days ago
 	Microsoft Azure App Service-AZURE206x-2017_T4.tar.gz 	dockerizing courses 	2 days ago
 	Microsoft Azure Storage-AZURE205x-2017_T4.tar.gz 	dockerizing courses 	2 days ago
@@ -59,6 +59,9 @@
 	Microsoft Azure Virtual Networks-AZURE203x-2017_T4.tar.gz 	dockerizing courses 	2 days ago
 	Querying with Transact-SQL-DAT201x-2017_T4.tar.gz 	dockerizing courses 	2 days ago
   
- ##[course-ppsr](https://github.com/cruzaria/course-ppsr)
- ##[course-fgosdo](https://github.com/cruzaria/course-fgosdo)
- ##[course-history](https://github.com/cruzaria/course-history)
+## [course-ppsr](https://github.com/cruzaria/course-ppsr)
+ППСР -курс профилактика социальных рисков
+## [course-fgosdo](https://github.com/cruzaria/course-fgosdo)
+курс стадарт ФГОС в дошкольном обучении 
+## [course-history](https://github.com/cruzaria/course-history)
+курс по истории
